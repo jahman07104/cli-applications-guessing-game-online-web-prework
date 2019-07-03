@@ -3,7 +3,7 @@ def run_guessing_game
    puts"guess a number between 1 and 6"
 input=gets.chomp
  puts "you guessed the correct number"
-else
+ifelse
    puts"sorry the computer guessed<number>"
    
 input=gets.chomp
