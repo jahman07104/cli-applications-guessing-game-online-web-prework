@@ -6,9 +6,9 @@ input=gets.chomp
 else
    puts"sorry the computer guessed<number>"
    
-
-
-
+input=gets.chomp
+exit
+puts "goodbye"
 end
 
 
